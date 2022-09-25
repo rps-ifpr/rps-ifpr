@@ -1,4 +1,4 @@
-## Olá, eu sou o Rogério Santos, criador de conteúdo de programação e tecnologia!
+## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia!
 
 
 <div align="center">
