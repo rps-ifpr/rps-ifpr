@@ -7,13 +7,33 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roger-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Roger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Roger-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roger-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roger-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Roger-pic" height="150" style="border-radius:50px;" 
-  <img src="https://www.kindpng.com/picc/m/548-5482741_thumb-image-ciencia-y-tecnologia-png-transparent-png.png" alt="Thumb Image - Ciencia Y Tecnologia Png, Transparent Png@kindpng.com">
+   <img align="center" alt="Roger-Arduino" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+   <img align="center" alt="Roger-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+   <img align="center" alt="Roger-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+   <img align="center" alt="Roger-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
+                
+   <img align="center" alt="Roger-jupter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+   <img align="center" alt="Roger-Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+   
+   <img align="center" alt="Roger-rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+          
+   <img align="center" alt="Roger-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+   <img align="center" alt="Roger-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
+   
+   <img align="center" alt="Roger-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+          
+   <img align="center" alt="Roger-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+          
+   <img align="center" alt="Roger-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
+ 
+  <img align="right" alt="Roger-pic" height="150" style="border-radius:50px;" src="https://www.kindpng.com/picc/m/548-5482741_thumb-image-ciencia-y-tecnologia-png-transparent-png.png" alt="Thumb Image - Ciencia Y Tecnologia Png, Transparent Png@kindpng.com">
+  
 </div>
   
   ##
