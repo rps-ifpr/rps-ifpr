@@ -1,13 +1,13 @@
 ## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia!
 
-
 <div align="center">
   <a href="https://github.com/ROGERIOPDOSSANTOS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROGERIOPDOSSANTOS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROGERIOPDOSSANTOS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+ ##
+ 
 <div style="display: inline_block"><br>
 <p align="center">
   <img align="center" alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,8 +19,7 @@
    <img align="center" alt="Roger-Arduino" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
    <img align="center" alt="Roger-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
    <img align="center" alt="Roger-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-   <img align="center" alt="Roger-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
-                
+   <img align="center" alt="Roger-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >              
    <img align="center" alt="Roger-jupter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
    <img align="center" alt="Roger-Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
    <img align="center" alt="Roger-rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />       
