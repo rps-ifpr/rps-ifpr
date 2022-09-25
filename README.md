@@ -32,7 +32,7 @@
    <img align="center" alt="Roger-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
           
  
-  <img align="right" alt="Roger-pic" height="150" style="border-radius:50px;" src="https://www.kindpng.com/picc/m/548-5482741_thumb-image-ciencia-y-tecnologia-png-transparent-png.png" alt="Thumb Image - Ciencia Y Tecnologia Png, Transparent Png@kindpng.com">
+  <img align="right" alt="Roger-pic" height="100" style="border-radius:50px;" src="https://www.kindpng.com/picc/m/548-5482741_thumb-image-ciencia-y-tecnologia-png-transparent-png.png" alt="Thumb Image - Ciencia Y Tecnologia Png, Transparent Png@kindpng.com">
   
 </div>
   
