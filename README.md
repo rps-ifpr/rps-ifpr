@@ -43,7 +43,7 @@ Cientista de dados e pesquisador com foco em aprendizado de máquina e ferrament
   <a href = "mailto:rogerio.dosantos@ifpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rogerio-pereira-do-santos-3b108021a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a href=["https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR)" target="_blank">
+  <a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR)" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Kaggle-blue" target="_blank"></a> 
    
 </div>
