@@ -47,7 +47,7 @@ Cientista de dados e pesquisador com foco em aprendizado de máquina e ferrament
     <img src="https://img.shields.io/badge/Google%20Scholar-Google%20Scholar-orange" target="_blank"></a> 
   
     <a href="https://www.kaggle.com/rogerioifpr" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kaggle-Kaggle-blue" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/Kaggle-kaklee-blue" target="_blank"></a> 
   
    
 </div>
