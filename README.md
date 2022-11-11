@@ -1,4 +1,4 @@
-## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia!
+## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia! 
 
 <div align="center">
   <a href="https://github.com/rps-ifpr">
@@ -48,4 +48,6 @@
 <div>
 
 
-
+Projetos de código aberto
+AquaCrop-OSPy : Implementação em Python do modelo AquaCrop de água de cultivo desenvolvido pela ONU-FAO
+aquacrop-gym : Aprendizagem de reforço ambiente de simulação de culturas para programação de irrigação
