@@ -1,5 +1,5 @@
 ## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia! 
-Cientista de dados e pesquisador com foco no uso de modelos de culturas, aprendizado de máquina e ferramentas de ciência de dados para melhorar a tomada de decisões agrícolas e robótica industrial. Desenvolvedor de modelos aprendizagem para irrigação de precisão de código aberto.
+Cientista de dados e pesquisador com foco no uso de modelos de culturas, aprendizado de máquina e ferramentas de ciência de dados para melhorar a tomada de decisões agrícolas e robótica industrial. Desenvolvedor de modelos de aprendizagem de máquina de código aberto.
 
 
 <div align="center">
