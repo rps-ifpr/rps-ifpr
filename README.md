@@ -1,4 +1,6 @@
 ## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia! 
+Cientista de dados e pesquisador com foco no uso de modelos de culturas, aprendizado de máquina e ferramentas de ciência de dados para melhorar a tomada de decisões agrícolas e robótica industrial. Desenvolvedor de modelos aprendizagem para irrigação de precisão de código aberto.
+
 
 <div align="center">
   <a href="https://github.com/rps-ifpr">
@@ -49,5 +51,5 @@
 
 
 Projetos de código aberto
-AquaCrop-OSPy : Implementação em Python do modelo AquaCrop de água de cultivo desenvolvido pela ONU-FAO
-aquacrop-gym : Aprendizagem de reforço ambiente de simulação de culturas para programação de irrigação
+.. : Implementação em Python do modelo ....
+..: Aprendizagem de reforço ambiente de simulação de culturas para programação de irrigação
