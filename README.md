@@ -1,4 +1,3 @@
-## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia! 
 ## Hello, I'm Rogério, programming and technology content creator!
 Data scientist and researcher focusing on machine learning and data science tools to improve agricultural and industrial robotics decision making. Developer of open source machine learning models. Experience in data analysis, data mining, predictive modeling, data visualization, natural language processing, deep learning and artificial intelligence.
 
