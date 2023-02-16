@@ -1,5 +1,6 @@
 ## Olá, eu sou o Rogério, criador de conteúdo de programação e tecnologia! 
-Cientista de dados e pesquisador com foco em aprendizado de máquina e ferramentas de ciência de dados para melhorar a tomada de decisão agrícola e da robótica industrial. Desenvolvedor de modelos de aprendizagem de máquina de código aberto. Experiência em análise de dados, mineração de dados, modelagem preditiva, visualização de dados, processamento de linguagem natural, aprendizado profundo e inteligência artificial.
+## Hello, I'm Rogério, programming and technology content creator!
+Data scientist and researcher focusing on machine learning and data science tools to improve agricultural and industrial robotics decision making. Developer of open source machine learning models. Experience in data analysis, data mining, predictive modeling, data visualization, natural language processing, deep learning and artificial intelligence.
 
 
 <div align="center">
