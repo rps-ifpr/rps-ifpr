@@ -1,11 +1,15 @@
 ## Hello, I'm Rogério, programming and technology content creator!
 Data scientist, professor, researcher and developer in Paraná, Brazil, focusing on machine learning, IoT and tools that can improve decision making in precision agriculture, robotics, drones and industrial areas. Developer of open source machine learning models. Experience in data analysis, data mining, predictive modeling, data visualization, natural language processing, deep learning and artificial intelligence.
-
-
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
+  
 <div align="center">
   <a href="https://github.com/rps-ifpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rps-ifpr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rps-ifpr&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rps-ifpr&layout=compact&langs_count=7&theme=dracula"/>
+   
 </div> 
 
  ##
@@ -55,5 +59,5 @@ Data scientist, professor, researcher and developer in Paraná, Brazil, focusing
 
 
 Projetos de código aberto
-.. : Implementação em Python do modelo ....
+.. : Implementação em Python.
 ..: Aprendizagem de reforço ambiente de simulação de culturas para programação de irrigação
