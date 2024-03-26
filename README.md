@@ -53,6 +53,11 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
  ##
  
 <div> 
+
+   <p align="center">
+  <h2 align="center">“Penso, logo existo!”</h2>
+</p>
+     
 <p align="center">
   <a href="https://www.youtube.com/channel/UCvmN5GbOqgiMKo5oN6L-_aA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/prof.rogerioifpr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
