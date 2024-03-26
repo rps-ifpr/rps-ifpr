@@ -1,9 +1,10 @@
 ## Olá, Eu sou o Rogério, criador de conteúdo de programação e tecnologia!
 Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendizado de máquina, visão computacional, IoT e ferramentas que podem melhorar a tomada de decisão na agricultura de precisão, robótica, drones e áreas industriais. Desenvolvedor de modelos de código aberto. Experiência em análise de dados, mineração de dados, modelagem preditiva, visualização de dados, processamento de linguagem natural, aprendizado profundo e inteligência artificial.
-<a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR" target="_blank">
-    <img src="https://www.example.com/link-to-your-icon.png" alt="Ícone do Google Acadêmico" style="vertical-align:middle; width:24px; height:24px;">
+
+<p><a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR" target="_blank">
+    <img src="https://www.example.com/link-to-your-icon.png" alt="Ícone do Google Acadêmico" style="vertical-align:middle; width:24px; height:24px;"><br>
     Acesse meu perfil no Google Acadêmico
-</a>
+</a></p>
 
 
 <p align="center">
