@@ -1,5 +1,5 @@
-## Olá, Eu sou o Rogério, programming and technology content creator!
-Data scientist, professor, researcher and developer in Paraná, Brazil, focusing on machine learning, IoT and tools that can improve decision making in precision agriculture, robotics, drones and industrial areas. Developer of open source machine learning models. Experience in data analysis, data mining, predictive modeling, data visualization, natural language processing, deep learning and artificial intelligence.
+## Olá, Eu sou o Rogério, criador de conteúdo de programação e tecnologia!
+Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendizado de máquina, visão computacional, IoT e ferramentas que podem melhorar a tomada de decisão na agricultura de precisão, robótica, drones e áreas industriais. Desenvolvedor de modelos de código aberto. Experiência em análise de dados, mineração de dados, modelagem preditiva, visualização de dados, processamento de linguagem natural, aprendizado profundo e inteligência artificial.
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
