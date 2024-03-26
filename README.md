@@ -3,7 +3,7 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
 
 <p align="center">
 <a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR" target="_blank">
-    Acesse meu perfil no Google Acadêmico:
+    Acesse meu perfil no Google Acadêmico e conheça minhas publicações:
 </a>
     <br>
  <a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR" target="_blank">
