@@ -11,7 +11,9 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
 </p>
 <br>
 <br>
-
+<a href="(http://lattes.cnpq.br/4385115235619937)" target="_blank">
+    Acesse meu curriculo Lattes
+</a>
 
 
 <p align="center">
