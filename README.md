@@ -10,12 +10,14 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
     <img src="https://img.shields.io/badge/Google%20Scholar-Google%20Scholar-orange" target="_blank"></a> 
 </p>
 <br>
-<br>
-<a href="(http://lattes.cnpq.br/4385115235619937)" target="_blank">
-    Acesse meu curriculo Lattes
+
+<p align="center">
+<a href="http://lattes.cnpq.br/4385115235619937" target="_blank">
+    Acesse meu Curriculo Lattes
 </a>
-
-
+<br>
+    <br>
+    <br>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
