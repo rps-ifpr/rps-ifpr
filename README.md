@@ -3,7 +3,7 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
 
 <p align="center">
 <a href="https://conferenciaweb.rnp.br/sala/bigroger" target="_blank">
-    Acesse minha página de Conferencia Web:
+    Acesse minha página de Conferencia Web
 </a>
     
 <p align="center">
@@ -22,11 +22,7 @@ Cientista de dados, professor, pesquisador e desenvolvedor, com foco em aprendiz
 </a>
 <br>
     <br>
-    <p align="center">
-<a href="https://scholar.google.com.br/citations?user=Y7j9q7wAAAAJ&hl=pt-BR" target="_blank">
-    Acesse meu perfil no Google Acadêmico e conheça minhas publicações:
-</a>
-    <br>
+       <br>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
