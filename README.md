@@ -1,5 +1,5 @@
 ## Olá, eu sou o Rogério!
-Trabalho com Engenharia e Ciencia de dados, professor, pesquisador e desenvolvedor, com foco em aprendizado de máquina, visão computacional, IoT e ferramentas que pode melhorar a tomada de decisão nas áreas da agricultura de precisão, industria, comercio e educação. Desenvolvedor de modelos de código aberto. Experiência em análise de dados, agende de IA Sql - mineração de dados, modelagem preditiva, visualização de dados, processamento de linguagem natural, aprendizado profundo, robótica e drones.
+Trabalho com Engenharia e Ciencia de dados, professor, pesquisador e desenvolvedor, com foco em aprendizado de máquina, visão computacional, IoT e ferramentas que pode melhorar a tomada de decisão nas áreas da agricultura de precisão, industria, comercio e educação. Desenvolvedor de modelos de código aberto. Experiência em análise de dados, agentes de IA Sql - mineração de dados, modelagem preditiva, visualização de dados, processamento de linguagem natural, aprendizado profundo, robótica e drones.
 
    
 <p align="center">
